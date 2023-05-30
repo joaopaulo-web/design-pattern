@@ -1,0 +1,9 @@
+{
+    "name": "joao/facade",
+    "autoload": {
+        "psr-4": {
+            "classes\\": "Classes/"
+        }
+    },
+    "require": {}
+}
