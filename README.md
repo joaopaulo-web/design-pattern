@@ -6,8 +6,6 @@ Esses padrões são amplamente utilizados no desenvolvimento de software para re
 
 ## Padrões de Design
 
-Aqui está uma breve descrição de cada um dos padrões de design escolhidos para estudo:
-
 ### Singleton
 
 O padrão Singleton é utilizado quando desejamos garantir que uma classe tenha apenas uma instância em todo o sistema. Isso é útil quando precisamos de um ponto central de acesso a recursos compartilhados ou quando queremos limitar a criação de objetos de uma determinada classe.
